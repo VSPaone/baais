@@ -902,8 +902,8 @@ button,
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  height: 32px;
-  width: 32px;
+  height: 44px;
+  width: 44px;
   margin-left: auto;
   margin-right: 6px;
   z-index: 110;
@@ -911,10 +911,9 @@ button,
 
 .nav-toggle span {
   display: block;
-  width: 20px;
-  height: 2.4px;
-  margin: 3px 0;
-  margin-right:8px;
+  width: 28px;
+  height: 3.2px;
+  margin: 5px 0;
   background: var(--accent);
   border-radius: 2px;
   transition: 0.3s;
@@ -1218,14 +1217,14 @@ button,
     background: none;
     border: none;
     cursor: pointer;
-    width: 32px;
-    height: 32px;
+    width: 44px;
+    height: 44px;
     z-index: 1001;
   }
 
   .nav-toggle span {
     background: var(--accent);
-    width: 20px;
+    width: 28px;
     height: 3px;
     margin: 4px 0;
     transition: 0.3s;
